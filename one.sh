@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "aabb"
+logname
+date +"%m-%d-%y"
